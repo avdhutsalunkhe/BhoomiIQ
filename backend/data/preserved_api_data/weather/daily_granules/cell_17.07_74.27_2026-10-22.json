@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "cell_key": "cell_17.07_74.27",
+    "canonical_lat": 17.07,
+    "canonical_lng": 74.27,
+    "elevation_m": 577.0,
+    "recorded_at_utc": "2026-10-22T03:50:30.604092+00:00",
+    "record_type": "daily_aggregates",
+    "units": {
+      "date": "unit",
+      "precipitation_sum": "mm",
+      "et0_fao_evapotranspiration": "mm",
+      "temperature_2m_max": "°C",
+      "temperature_2m_min": "°C"
+    }
+  },
+  "records_count": 14,
+  "daily_data": [
+    {
+      "date": "2026-10-14T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 5.9215,
+      "temperature_2m_max": 34.5,
+      "temperature_2m_min": 22.8
+    },
+    {
+      "date": "2026-10-15T18:30:00+00:00",
+      "precipitation_sum": 0.3,
+      "et0_fao_evapotranspiration": 4.9157,
+      "temperature_2m_max": 34.15,
+      "temperature_2m_min": 23.25
+    },
+    {
+      "date": "2026-10-16T18:30:00+00:00",
+      "precipitation_sum": 2.4,
+      "et0_fao_evapotranspiration": 3.6978,
+      "temperature_2m_max": 33.05,
+      "temperature_2m_min": 23.25
+    },
+    {
+      "date": "2026-10-17T18:30:00+00:00",
+      "precipitation_sum": 1.6,
+      "et0_fao_evapotranspiration": 4.476,
+      "temperature_2m_max": 32.5,
+      "temperature_2m_min": 22.0
+    },
+    {
+      "date": "2026-10-18T18:30:00+00:00",
+      "precipitation_sum": 1.4,
+      "et0_fao_evapotranspiration": 4.3114,
+      "temperature_2m_max": 32.75,
+      "temperature_2m_min": 23.65
+    },
+    {
+      "date": "2026-10-19T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 5.3802,
+      "temperature_2m_max": 33.8,
+      "temperature_2m_min": 24.05
+    },
+    {
+      "date": "2026-10-20T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 6.1095,
+      "temperature_2m_max": 33.65,
+      "temperature_2m_min": 23.35
+    },
+    {
+      "date": "2026-10-21T18:30:00+00:00",
+      "precipitation_sum": 2.9,
+      "et0_fao_evapotranspiration": 4.7304,
+      "temperature_2m_max": 32.55,
+      "temperature_2m_min": 23.7
+    },
+    {
+      "date": "2026-10-22T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 4.7857,
+      "temperature_2m_max": 33.3,
+      "temperature_2m_min": 23.15
+    },
+    {
+      "date": "2026-10-23T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 4.4767,
+      "temperature_2m_max": 32.65,
+      "temperature_2m_min": 22.95
+    },
+    {
+      "date": "2026-10-24T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 5.797,
+      "temperature_2m_max": 33.4,
+      "temperature_2m_min": 22.9
+    },
+    {
+      "date": "2026-10-25T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 6.4775,
+      "temperature_2m_max": 33.7,
+      "temperature_2m_min": 21.95
+    },
+    {
+      "date": "2026-10-26T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 6.5116,
+      "temperature_2m_max": 33.35,
+      "temperature_2m_min": 21.1
+    },
+    {
+      "date": "2026-10-27T18:30:00+00:00",
+      "precipitation_sum": 0.0,
+      "et0_fao_evapotranspiration": 6.3545,
+      "temperature_2m_max": 33.4,
+      "temperature_2m_min": 21.05
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "cell_key": "cell_17.07_74.28",
+    "canonical_lat": 17.07,
+    "canonical_lng": 74.28,
+    "crop_variety": "Co 86032",
+    "crop_age_days": 185,
+    "recorded_at_utc": "2026-10-23T03:32:34.051584+00:00",
+    "record_type": "agricultural_derived_features",
+    "units": {
+      "growing_degree_days_7d": "degree-days",
+      "precipitation_recent_7d_mm": "mm",
+      "effective_precipitation_7d_mm": "mm",
+      "et0_evapotranspiration_7d_mm": "mm",
+      "water_balance_deficit_7d_mm": "mm",
+      "vapour_pressure_deficit_kpa": "kPa",
+      "soil_moisture_surface_0_7cm": "m³/m³",
+      "soil_moisture_rootzone_7_28cm": "m³/m³",
+      "soil_water_stress_index": "dimensionless (0-1)"
+    }
+  },
+  "features": {
+    "crop_variety": "Co 86032",
+    "crop_age_days": 185,
+    "current_temperature_c": 21.1,
+    "current_relative_humidity_pct": 89.8,
+    "mean_tmax_7d_c": 33.1,
+    "mean_tmin_7d_c": 21.1,
+    "diurnal_temperature_range_7d_c": 12.0,
+    "growing_degree_days_7d": 119.8,
+    "growing_degree_days_total": 248.1,
+    "base_temperature_c": 10.0,
+    "precipitation_recent_7d_mm": 0.1,
+    "precipitation_recent_14d_mm": 5.9,
+    "effective_precipitation_7d_mm": 0.1,
+    "consecutive_dry_days": 14,
+    "is_dry_spell_active": 1,
+    "et0_evapotranspiration_7d_mm": 39.58,
+    "et0_evapotranspiration_14d_mm": 73.78,
+    "water_balance_deficit_7d_mm": -39.48,
+    "effective_water_balance_7d_mm": -39.48,
+    "vapour_pressure_deficit_kpa": 1.928,
+    "soil_moisture_surface_0_7cm": 0.237,
+    "soil_moisture_rootzone_7_28cm": 0.235,
+    "soil_temperature_surface_c": 27.0,
+    "soil_water_stress_index": 0.28,
+    "ripening_favorability": "Low (Grand Growth)",
+    "target_leakage_safeguard": "Strictly preceding and current window evaluated"
+  }
+}

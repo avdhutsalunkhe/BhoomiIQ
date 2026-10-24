@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "coordinates": {
+      "lat": 17.0679,
+      "lng": 74.2747
+    },
+    "canonical_grid": "cell_17.07_74.27",
+    "provider": "Copernicus / Microsoft Planetary Computer STAC",
+    "saved_at_utc": "2026-10-21T10:45:56.519771+00:00",
+    "scene_count": 5
+  },
+  "scenes": [
+    {
+      "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43QDV_20261020T101804",
+      "satellite_platform": "Sentinel-2C (MSI Level-2A Surface Reflectance)",
+      "acquisition_timestamp": "2026-10-20T05:28:41.025000Z",
+      "cloud_cover_pct": 0.2,
+      "parcel_cloud_score": 0.0,
+      "sun_zenith_angle": 34.2,
+      "data_source": "Copernicus Sentinel-2 via Open STAC API",
+      "bands_available": [
+        "B02 (Blue 10m)",
+        "B03 (Green 10m)",
+        "B04 (Red 10m)",
+        "B08 (NIR 10m)",
+        "B11 (SWIR 20m)",
+        "SCL (Scene Classification 20m)"
+      ]
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43QDU_20261020T101804",
+      "satellite_platform": "Sentinel-2C (MSI Level-2A Surface Reflectance)",
+      "acquisition_timestamp": "2026-10-20T05:28:41.025000Z",
+      "cloud_cover_pct": 4.5,
+      "parcel_cloud_score": 0.0,
+      "sun_zenith_angle": 34.2,
+      "data_source": "Copernicus Sentinel-2 via Open STAC API",
+      "bands_available": [
+        "B02 (Blue 10m)",
+        "B03 (Green 10m)",
+        "B04 (Red 10m)",
+        "B08 (NIR 10m)",
+        "B11 (SWIR 20m)",
+        "SCL (Scene Classification 20m)"
+      ]
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20261015T052759_R105_T43QDV_20261015T090952",
+      "satellite_platform": "Sentinel-2B (MSI Level-2A Surface Reflectance)",
+      "acquisition_timestamp": "2026-10-15T05:27:59.024000Z",
+      "cloud_cover_pct": 0.0,
+      "parcel_cloud_score": 0.0,
+      "sun_zenith_angle": 34.2,
+      "data_source": "Copernicus Sentinel-2 via Open STAC API",
+      "bands_available": [
+        "B02 (Blue 10m)",
+        "B03 (Green 10m)",
+        "B04 (Red 10m)",
+        "B08 (NIR 10m)",
+        "B11 (SWIR 20m)",
+        "SCL (Scene Classification 20m)"
+      ]
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20261015T052759_R105_T43QDU_20261015T090952",
+      "satellite_platform": "Sentinel-2B (MSI Level-2A Surface Reflectance)",
+      "acquisition_timestamp": "2026-10-15T05:27:59.024000Z",
+      "cloud_cover_pct": 7.0,
+      "parcel_cloud_score": 0.0,
+      "sun_zenith_angle": 34.2,
+      "data_source": "Copernicus Sentinel-2 via Open STAC API",
+      "bands_available": [
+        "B02 (Blue 10m)",
+        "B03 (Green 10m)",
+        "B04 (Red 10m)",
+        "B08 (NIR 10m)",
+        "B11 (SWIR 20m)",
+        "SCL (Scene Classification 20m)"
+      ]
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261010T052731_R105_T43QDV_20261010T102100",
+      "satellite_platform": "Sentinel-2C (MSI Level-2A Surface Reflectance)",
+      "acquisition_timestamp": "2026-10-10T05:27:31.025000Z",
+      "cloud_cover_pct": 4.1,
+      "parcel_cloud_score": 0.0,
+      "sun_zenith_angle": 34.2,
+      "data_source": "Copernicus Sentinel-2 via Open STAC API",
+      "bands_available": [
+        "B02 (Blue 10m)",
+        "B03 (Green 10m)",
+        "B04 (Red 10m)",
+        "B08 (NIR 10m)",
+        "B11 (SWIR 20m)",
+        "SCL (Scene Classification 20m)"
+      ]
+    }
+  ]
+}
